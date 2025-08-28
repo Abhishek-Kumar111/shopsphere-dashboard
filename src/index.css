@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+body{
+  font-family: "Roboto", sans-serif;
+  background-color: #f1f1f1 !important;
+  
+}
+.MuiBadge-badge{
+  background-color: #ff5252 !important;
+}
+.ReactCollapse--collapse {
+  transition: height 300ms;
+}
+.MuiButton-endIcon svg{
+  font-size: 25px !important;
+}
+.MuiToolbar-root {
+  background-color: #cfcfcf !important;
+}
+
+.MuiSvgIcon-root {
+  font-size: 1.25rem !important;
+
+  
+}
+@layer components {
+  .MuiOutlinedInput-input.MuiSelect-select {
+    padding-right: 8px !important;
+  }
+}
+
+
+.css-74d805-MuiButtonBase-root-MuiButton-root {
+    background-color: #E7DCDC !important;
+}
+
+
+
+
