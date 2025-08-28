@@ -46,15 +46,21 @@ npm run build
 
 shopsphere-admin/
 ├── public/             # Images, icons
+
 ├── src/
+
 │   ├── components/    # Reusable components
+
 │   ├── pages/         # Main pages (Dashboard, Products, Users, etc.)
-│   ├── assets/       
+
+│   ├── assets/    
+
 │   ├── App.js
+
 │   └── index.js
+
 └── package.json
-📸 Screenshots
-(Add screenshots/gifs of your dashboard UI here once it’s ready)
+
 
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
